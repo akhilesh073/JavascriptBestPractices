@@ -1,2 +1,0 @@
-# JavascriptBestPractices
-Created with CodeSandbox

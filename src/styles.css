@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  background: #3399ff;
+  padding: 20px;
+  list-style-type: none;
+}
